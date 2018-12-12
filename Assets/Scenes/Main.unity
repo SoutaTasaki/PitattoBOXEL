@@ -311,6 +311,13 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7d1935e37481345978acff7e2d4e112e, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Plane: {fileID: 1827472135764090, guid: de5ef8117dfa940fcaa054fa71a77361, type: 2}
+  m_Gool: {fileID: 1093439631950742, guid: e6e5a919504284ba2b347d034d3fbb45, type: 2}
+  m_CheckPoint: {fileID: 1902047048098186, guid: cd2d260ec40de4192879501b028e4330,
+    type: 2}
+  m_Obstacl: {fileID: 1120171368271094, guid: 7e31d3ca8935841578eb51b8b1d0abd9, type: 2}
+  m_Warp: {fileID: 1760400545591172, guid: 4a8170071a14c40d283ec9c75083d881, type: 2}
+  m_Spring: {fileID: 1075208379256716, guid: 238ad5dc8707c4e69ba00ebbdbbc50d3, type: 2}
 --- !u!4 &2075232991
 Transform:
   m_ObjectHideFlags: 0

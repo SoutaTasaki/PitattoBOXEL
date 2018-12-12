@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class StageParameters : MonoBehaviour {
 
+    [SerializeField]
+    private GameObject 
+
     //0:プレイヤー初期位置
     //1:普通のステージ
     //2:ゴール

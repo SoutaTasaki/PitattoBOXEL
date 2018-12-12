@@ -5,7 +5,17 @@ using UnityEngine;
 public class StageParameters : MonoBehaviour {
 
     [SerializeField]
-    private GameObject 
+    private GameObject m_Plane;  //何も無いステージパーツ
+    [SerializeField]
+    private GameObject m_Gool;  //ゴール
+    [SerializeField]
+    private GameObject m_CheckPoint;　　//チェックポイント
+    [SerializeField]
+    private GameObject m_Obstacl;　　//障害物
+    [SerializeField]
+    private GameObject m_Warp;　　//ワープソーン
+    [SerializeField]
+    private GameObject m_Spring;　　//バネ
 
     //0:プレイヤー初期位置
     //1:普通のステージ
